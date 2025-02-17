@@ -24,6 +24,11 @@ Cada letra da sigla SOLID representa um princípio:
 Este repositório contém explicações de cada princípio e exemplos práticos.
 
 Principios / Principles: Documentos explicando cada princípio em detalhes.
+
+[SRP]("./principles/SRP.md)
+
+[]
+
 Exemplos / Examples: Implementações práticas de cada princípio em JavaScript e TypeScript.
 References.md: Lista de materiais e artigos recomendados sobre SOLID.
 
