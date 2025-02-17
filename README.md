@@ -25,11 +25,26 @@ Este repositório contém explicações de cada princípio e exemplos práticos.
 
 Principios / Principles: Documentos explicando cada princípio em detalhes.
 
-[SRP]("./principles/SRP.md)
+Atalhos abaixo
 
-[]
+### [SRP](/principles/SRP.md) [OCP](/principles/OCP.md) [LSP](/principles/LSP.md) [ISP](/principles/ISP.md) [DIP](/principles/DIP.md) 
 
 Exemplos / Examples: Implementações práticas de cada princípio em JavaScript e TypeScript.
+
+### [TypeScript](/examples/typescript/)
+- [SRP](/examples/typescript/srp-example.ts)
+- [OCP](/examples/typescript/ocp-example.ts)
+- [LSP](/examples/typescript/lsp-example.ts)
+- [ISP](/examples/typescript/isp-example.ts)
+- [DIP](/examples/typescript/dip-example.ts)
+
+### [JavaScript](/examples/javascript/)
+- [SRP](/examples/javascript/srp-example.ts)
+- [OCP](/examples/javascript/ocp-example.ts)
+- [LSP](/examples/javascript/lsp-example.ts)
+- [ISP](/examples/javascript/isp-example.ts)
+- [DIP](/examples/javascript/dip-example.ts)
+
 References.md: Lista de materiais e artigos recomendados sobre SOLID.
 
 ## Como Contribuir
@@ -40,3 +55,5 @@ Se quiser contribuir, sinta-se à vontade para abrir um Pull Request com melhori
 "Clean Code: A Handbook of Agile Software Craftsmanship" - Robert C. Martin
 
 "The Principles of Object-Oriented Design" - Robert C. Martin
+
+Mais referências [aqui](/REFERENCES.md)
