@@ -1,0 +1,16 @@
+{
+  "name": "explicando-solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BianchiBill/explicando-solid.git",
+  "author": "BianchiBill <rafaelbianchi06@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx index.js"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.9",
+    "tsx": "4.19.2",
+    "typescript": "5.7.3"
+  }
+}
