@@ -6,7 +6,17 @@
   "author": "BianchiBill <rafaelbianchi06@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsx index.js"
+    "start": "tsx index.js",
+    "start:js:srp": "node ./examples/javascript/srp-example.js",
+    "start:js:ocp": "node ./examples/javascript/ocp-example.js",
+    "start:js:lsp": "node ./examples/javascript/lsp-example.js",
+    "start:js:isp": "node ./examples/javascript/isp-example.js",
+    "start:js:dip": "node ./examples/javascript/dip-example.js",
+    "start:ts:srp": "tsx ./examples/typescript/srp-example.ts",
+    "start:ts:ocp": "tsx ./examples/typescript/ocp-example.ts",
+    "start:ts:lsp": "tsx ./examples/typescript/lsp-example.ts",
+    "start:ts:isp": "tsx ./examples/typescript/isp-example.ts",
+    "start:ts:dip": "tsx ./examples/typescript/dip-example.ts"
   },
   "devDependencies": {
     "nodemon": "3.1.9",

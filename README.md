@@ -32,18 +32,18 @@ Atalhos abaixo
 Exemplos / Examples: Implementações práticas de cada princípio em JavaScript e TypeScript.
 
 ### [TypeScript](/examples/typescript/)
-- [SRP](/examples/typescript/srp-example.ts)
-- [OCP](/examples/typescript/ocp-example.ts)
-- [LSP](/examples/typescript/lsp-example.ts)
-- [ISP](/examples/typescript/isp-example.ts)
-- [DIP](/examples/typescript/dip-example.ts)
+- [***S***RP](/examples/typescript/srp-example.ts)
+- [***O***CP](/examples/typescript/ocp-example.ts)
+- [***L***SP](/examples/typescript/lsp-example.ts)
+- [***I***SP](/examples/typescript/isp-example.ts)
+- [***D***IP](/examples/typescript/dip-example.ts)
 
 ### [JavaScript](/examples/javascript/)
-- [SRP](/examples/javascript/srp-example.js)
-- [OCP](/examples/javascript/ocp-example.js)
-- [LSP](/examples/javascript/lsp-example.js)
-- [ISP](/examples/javascript/isp-example.js)
-- [DIP](/examples/javascript/dip-example.js)
+- [***S***RP](/examples/javascript/srp-example.js)
+- [***O***CP](/examples/javascript/ocp-example.js)
+- [***L***SP](/examples/javascript/lsp-example.js)
+- [***I***SP](/examples/javascript/isp-example.js)
+- [***D***IP](/examples/javascript/dip-example.js)
 
 References.md: Lista de materiais e artigos recomendados sobre SOLID.
 
@@ -57,3 +57,28 @@ Se quiser contribuir, sinta-se à vontade para abrir um Pull Request com melhori
 "The Principles of Object-Oriented Design" - Robert C. Martin
 
 Mais referências [aqui](/REFERENCES.md)
+
+
+# Você pode executar `yarn start` no terminal para executar todos os exemplos
+
+Ou pode executar de forma independente
+
+* ***start:js:srp =>  executa srp-example.js***
+
+* ***start:js:ocp =>  executa ocp-example.js***
+
+* ***start:js:lsp =>  executa lsp-example.js***
+
+* ***start:js:isp =>  executa isp-example.js***
+
+* ***start:js:dip =>  executa dip-example.js***
+
+* ***start:ts:srp =>  executa srp-example.ts***
+
+* ***start:ts:ocp =>  executa ocp-example.ts***
+
+* ***start:ts:lsp =>  executa lsp-example.ts***
+
+* ***start:ts:isp =>  executa isp-example.ts***
+
+* ***start:ts:dip =>  executa dip-example.ts***
