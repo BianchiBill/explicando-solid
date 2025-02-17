@@ -39,11 +39,11 @@ Exemplos / Examples: Implementações práticas de cada princípio em JavaScript
 - [DIP](/examples/typescript/dip-example.ts)
 
 ### [JavaScript](/examples/javascript/)
-- [SRP](/examples/javascript/srp-example.ts)
-- [OCP](/examples/javascript/ocp-example.ts)
-- [LSP](/examples/javascript/lsp-example.ts)
-- [ISP](/examples/javascript/isp-example.ts)
-- [DIP](/examples/javascript/dip-example.ts)
+- [SRP](/examples/javascript/srp-example.js)
+- [OCP](/examples/javascript/ocp-example.js)
+- [LSP](/examples/javascript/lsp-example.js)
+- [ISP](/examples/javascript/isp-example.js)
+- [DIP](/examples/javascript/dip-example.js)
 
 References.md: Lista de materiais e artigos recomendados sobre SOLID.
 
